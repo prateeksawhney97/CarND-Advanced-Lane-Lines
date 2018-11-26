@@ -15,7 +15,7 @@ You're not required to use markdown for your writeup.  If you use another method
 The Project
 ---
 
-The goals / steps of this project are:
+The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
